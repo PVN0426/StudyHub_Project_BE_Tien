@@ -66,13 +66,13 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-   "https://study-hub-project-fe-tien.vercel.app/"
+   "https://study-hub-project-fe-tien.vercel.app"
 ]
 
 CORS_ALLOW_CREDENTIALS = True
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://study-hub-project-fe-tien.vercel.app/"
+    "https://study-hub-project-fe-tien.vercel.app"
 ]
 
 # SECURE_SSL_REDIRECT = False
